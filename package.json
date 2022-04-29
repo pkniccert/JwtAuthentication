@@ -1,0 +1,24 @@
+{
+  "name": "nic",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkniccert/test-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pkniccert/test-project/issues"
+  },
+  "homepage": "https://github.com/pkniccert/test-project#readme",
+  "description": ""
+}
