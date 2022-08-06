@@ -2,9 +2,6 @@ const User = require("../model/user");
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
-exports.getUser = async (req, res) => {
- res.send('Pavan'); 
-}
 exports.signup = async (req, res) => {
 
   // Our register logic starts here
